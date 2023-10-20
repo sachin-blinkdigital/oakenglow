@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbdd1143.css",
+    "main.js": "/static/js/main.67888828.js",
+    "static/media/delegation program.png": "/static/media/delegation program.7c891f805e3391f24481.png",
+    "static/media/liquidity pools.png": "/static/media/liquidity pools.ab84866df32a3f1e4b5d.png",
+    "static/media/Hone-01.png": "/static/media/Hone-01.26cbaf4b444f3c5966ef.png",
+    "static/media/donate.png": "/static/media/donate.4fe4ebec2e9c049b02b4.png",
+    "static/media/Montserrat-Thin.woff": "/static/media/Montserrat-Thin.d27ca3cc852da1ea6803.woff",
+    "static/media/about-01.png": "/static/media/about-01.5e7cae8ab9915ce25bc8.png",
+    "static/media/qr.png": "/static/media/qr.065f93d3274ccb95ec74.png",
+    "static/media/Montserrat-Thin.woff2": "/static/media/Montserrat-Thin.c8313bad66bf2cf4f9e6.woff2",
+    "static/media/RobotoMono-Italic.woff": "/static/media/RobotoMono-Italic.719215a3063441055962.woff",
+    "static/media/RobotoMono-Regular.woff": "/static/media/RobotoMono-Regular.d15ae7dd2d4e47ee9ed3.woff",
+    "static/media/RobotoMono-Italic.woff2": "/static/media/RobotoMono-Italic.0bad82ca85851f069a97.woff2",
+    "static/media/RobotoMono-Regular.woff2": "/static/media/RobotoMono-Regular.c460abd4bbf649cf4e4b.woff2",
+    "static/media/delegation.png": "/static/media/delegation.fb38321844dcda74f3df.png",
+    "index.html": "/index.html",
+    "main.dbdd1143.css.map": "/static/css/main.dbdd1143.css.map",
+    "main.67888828.js.map": "/static/js/main.67888828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbdd1143.css",
+    "static/js/main.67888828.js"
+  ]
+}
